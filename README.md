@@ -39,4 +39,24 @@ Note: For tasks 0 to 23 (included), you have to deal with simple binary trees. T
 Print function
 To match the examples in the tasks, you are given this function
 
-This function is used only for visualization purposes. 
+This function is used only for visualization purposes.
+-  a function that deletes an entire binary tree
+- a function that checks if a node is a leaf
+
+
+- a function that checks if a given node is a root
+- function that goes through a binary tree using pre-order traversal
+-  function that goes through a binary tree using in-order traversal
+- function that goes through a binary tree using post-order traversal
+- function that measures the height of a binary tree
+- function that measures the depth of a node in a binary tree
+-  function that measures the size of a binary tree
+- function that counts the leaves in a binary tree
+- function that counts the nodes with at least 1 child in a binary tree
+- a function that measures the balance factor of a binary tree
+- function that checks if a binary tree is full
+- function that checks if a binary tree is perfect
+- function that finds the sibling of a node
+
+
+ 
